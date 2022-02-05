@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zunding (Jayce)'s Homepage"
 title_separator          : "-"
 name                     : &name "Zunding Jayce Huang"
-description              : &description "Math PhD student at University of California, San Diego"
+description              : &description "Math Ph.D. student at University of California, San Diego"
 url                      : https://Zunding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zunding.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zunding Jayce Huang"
   avatar           : "Self.png"
-  bio              : "Math PhD student at University of California, San Diego"
+  bio              : "Math Ph.D. student at University of California, San Diego"
   location         : "La Jolla, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Zunding"
+  github           : "Zunding"
   google_plus      :
   keybase          :
   instagram        :
