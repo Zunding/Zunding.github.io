@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* Ph.D. in Applied Mathematics, University of California, San Diego, Sept. 2020 - June. 2025(Expected)
+* B.S. in Information and Computational Mathematics, University of Science and Technology of China, Sept. 2016 - Jun. 2020
+ 
 Work experience
 ======
 * Summer 2015: Research Assistant
