@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Currently I’m a second year Ph.D. student majoring in Applied Mathematics at UC San Diego. My research interests include machine learning, optimization, scientific computing, and their applications in biology and finance.
+Hi! Currently I’m a second year Ph.D. student majoring in Applied Mathematics at UC San Diego. My research interests include optimization, scientific computing, machine learning, and their applications in biology and finance.
 
 My email address is zuhuang at ucsd.edu.
