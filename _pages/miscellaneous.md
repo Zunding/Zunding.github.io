@@ -9,7 +9,7 @@ author_profile: true
 
 A Note of Legendre Transforms of Electrostatic Free-Energy Functionals
 ======
-Minimizing Legendre Transforms of Electrostatic Free-Energy Functionals instead of PB Free-Energy Functional is a very interesting topic in computational biology. [Here](Zunding.github.io/files/CiottiLi_LegendreTransforms_SIAP2018.pdf) is the note of theoretical proof of the equivalence between them.
+Minimizing Legendre Transforms of Electrostatic Free-Energy Functionals instead of PB Free-Energy Functional is a very interesting topic in computational biology. [Here](https://Zunding.github.io/files/CiottiLi_LegendreTransforms_SIAP2018.pdf) is the note of theoretical proof of the equivalence between them.
 
 Financial Issues
 ======
