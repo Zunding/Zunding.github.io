@@ -5,6 +5,6 @@ type: "Undergraduate course"
 permalink: /_teaching/2019-spring-teaching
 venue: "School of Mathematical Science, USTC"
 date: 2019 Spring
-location: "City, Country"
+location: "Hefei, China"
 
 ---
