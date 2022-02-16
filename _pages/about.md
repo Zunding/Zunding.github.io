@@ -12,4 +12,4 @@ Hi! Currently I’m a second year Ph.D. student majoring in [Applied Mathematics
 
 My email address is zuhuang at ucsd.edu.
 
-My Chinese name is 
+My Chinese name is <img src='/images/Huang.png'><img src='/images/Zun.png'><img src='/images/Ding.png'>
