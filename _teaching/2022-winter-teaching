@@ -1,5 +1,5 @@
 ---
-title: "Math 10C"
+title: "Math 10C Calculus"
 collection: teaching
 type: "Undergraduate course"
 permalink: /_teaching/2022-winter-teaching
@@ -7,3 +7,5 @@ venue: "Department of Mathematics, UC San Diego"
 date: 2022-01-03
 location: "San Diego, USA"
 ---
+
+Introduction to functions of more than one variable. Vector geometry, partial derivatives, velocity and acceleration vectors, optimization problems.
