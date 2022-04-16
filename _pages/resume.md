@@ -11,8 +11,6 @@ redirect_from:
 
 Below is the short version of my resume. If you want my long version of resume, feel free to email me.
 
-#[Here](https://Zunding.github.io/files/Resume.pdf) is the long version of my resume(April 16).
-
 Education
 ======
 * Ph.D. in Applied Mathematics, University of California, San Diego, Sept. 2020 - present
