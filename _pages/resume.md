@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Below is the short version of my resume. [Here](https://Zunding.github.io/files/Resume.pdf) is the long version of my resume(April 16).
+Below is the short version of my resume. If you want my long version of resume, feel free to email me.
+
+#[Here](https://Zunding.github.io/files/Resume.pdf) is the long version of my resume(April 16).
 
 Education
 ======
