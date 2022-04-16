@@ -13,7 +13,7 @@ Minimizing Legendre Transform of Electrostatic Free-Energy Functionals instead o
 
 Financial Research
 ======
-Previously, I used machine learning, especially LSTM to predict of S&P 500 index in 2019. [Here](https://github.com/Zunding/S-P-500-Index-Prediction) are the code and details for the work. I planned to write a paper this year with the work.
+Previously, I used machine learning, especially LSTM to predict S&P 500 index in 2019. [Here](https://github.com/Zunding/S-P-500-Index-Prediction) are the code and details for the work. I planned to write a paper this year with the work.
 
 Also, I attended CQA financial competition in the second year of my Ph.D. and we made the second turn of the competition.
 
