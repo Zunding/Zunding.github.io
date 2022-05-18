@@ -16,7 +16,3 @@ Financial Research
 Previously, I used machine learning, especially LSTM to predict S&P 500 index in 2019. [Here](https://github.com/Zunding/S-P-500-Index-Prediction) are the code and details for the work. I planned to write a paper this year with the work.
 
 Also, I attended CQA financial competition in the second year of my Ph.D. and we made the second turn of the competition.
-
-Entertainment
-======
-I am a crazy fan of League of Legends. My best heros are [Jayce](https://leagueoflegends.fandom.com/wiki/Jayce), [Ezreal](https://leagueoflegends.fandom.com/wiki/Ezreal), [Lucian](https://leagueoflegends.fandom.com/wiki/Lucian), [Jhin](https://leagueoflegends.fandom.com/wiki/Jhin) and [Kaisa](https://leagueoflegends.fandom.com/wiki/Kai%27Sa/LoL). Specifically, my English name is from the “Jayce” champion.
