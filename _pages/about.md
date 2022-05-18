@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zunding (Jayce)'s homepage!"
+title: "Welcome to Zunding's homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
