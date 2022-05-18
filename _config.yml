@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zunding (Jayce)'s Homepage"
+title                    : "Zunding's Homepage"
 title_separator          : "-"
-name                     : &name "Zunding Jayce Huang"
+name                     : &name "Zunding Huang"
 description              : &description "Math Ph.D. student at University of California, San Diego"
 url                      : https://Zunding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
