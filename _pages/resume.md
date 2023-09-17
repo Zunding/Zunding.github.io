@@ -21,9 +21,6 @@ Experience
 * Research Assistant, University of California, San Diego
   * Advisor: Prof. Bo Li
   * Jan 2022 - Present
-* Research Assistant, University of California, Irvine
-  * Advisor: Prof. Hongkai Zhao and Postdoc Yimin Zhong
-  * Jul 2019 - Sept 2019
 
 Programming Skills
 ======
