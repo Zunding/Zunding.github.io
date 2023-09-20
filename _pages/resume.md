@@ -27,4 +27,4 @@ Experience
 
 Programming Skills
 ======
-* Python, C/C++, MATLAB, Mathematica
+* Python, C/C++, MATLAB, Mathematica, SQL, R, LaTeX, Git
