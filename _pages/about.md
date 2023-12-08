@@ -12,6 +12,8 @@ Hi! Currently I’m a fourth year Ph.D. student majoring in [Applied Mathematics
 
 I am also the student organizer of the Machine Learning Seminar in Math department at UCSD for the 2023 Fall quarter.
 
+I will join Quantitative Analytics Internship Program at Wells Fargo for Summer 2024.
+
 My email address is zuhuang at ucsd.edu.
 
 My Chinese name is <img src='/images/Huang.png'><img src='/images/Zun.png'><img src='/images/Ding.png'>
