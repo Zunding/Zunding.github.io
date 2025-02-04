@@ -12,5 +12,5 @@ Poisson–Boltzmann Electrostatics](https://Zunding.github.io/files/HuangLi_LTPB
 
 Preprints
 ======
+* Zunding Huang, Bo Li, Zhongming Wang, and Zhiwen Zhang, Neural Network Poisson–Boltzmann Electrostatics for Biomolecular Interactions, submitted, 2024.
 * Zunding Huang and Bo Li, Variational Analysis of the Poisson–Boltzmann Electrostatics, in progress, 2024.
-* Zunding Huang, Bo Li, Zhongming Wang, and Zhiwen Zhang, Deep Neural Network Poisson–Boltzmann Electrostatics with Application to Biomolecular Solvation, in progress, 2024.
