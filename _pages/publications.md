@@ -8,7 +8,7 @@ author_profile: true
 Articles Accepted for Publication
 ======
 * Zunding Huang and Bo Li, [Variational Implicit Solvation with Legendre-Transformed
-Poisson–Boltzmann Electrostatics](https://Zunding.github.io/files/HuangLi_LTPB2024.pdf), Proc. Royal Soc. A, 2024.
+Poisson–Boltzmann Electrostatics](https://Zunding.github.io/files/HuangLi_LTPB2024.pdf), Proceedings of the Royal Society A, 480:20230731, 2024.
 
 Preprints
 ======
