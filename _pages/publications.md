@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+======
+
 Published Journal Articles
 ======
 * Zunding Huang and Bo Li, [Variational Implicit Solvation with Legendre-Transformed
