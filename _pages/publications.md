@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications and Preprints"
+# title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
-
-======
 
 Published Journal Articles
 ======
