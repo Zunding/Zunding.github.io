@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-======
 * Zunding Huang and Bo Li, [Variational Implicit Solvation with Legendre-Transformed
 Poisson–Boltzmann Electrostatics](https://Zunding.github.io/files/HuangLi_LTPB2024.pdf), Proceedings of the Royal Society A, 480:20230731, 2024.
 * Zunding Huang, Bo Li, Zhongming Wang, and Zhiwen Zhang, [Neural Network Poisson–Boltzmann Electrostatics for Biomolecular Interactions](https://Zunding.github.io/files/Huang_NNPBE.pdf), Journal of Computational Physics, 544, 114446, 2026.
