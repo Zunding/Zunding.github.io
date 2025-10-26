@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Education"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
 * Ph.D. in Applied Mathematics, University of California, San Diego, Sept. 2020 - Jun. 2025
 * B.S. in Computational Mathematics & Computer Science, University of Science and Technology of China, Sept. 2016 - Jun. 2020
