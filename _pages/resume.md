@@ -9,22 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Below is the short version of my resume. If you want my long version of resume, feel free to email me.
-
 Education
 ======
-* Ph.D. in Applied Mathematics, University of California, San Diego, Sept. 2020 - Jun.2025 (Expected)
+* Ph.D. in Applied Mathematics, University of California, San Diego, Sept. 2020 - Jun. 2025
 * B.S. in Computational Mathematics & Computer Science, University of Science and Technology of China, Sept. 2016 - Jun. 2020
 
 Experience
 ======
+* Quantitative Analytics Specialist, Wells Fargo Bank
+  * Aug. 2025 - Present
+* Quantitative Analytics Internship, Wells Fargo Bank
+  * Jun. 2024 - Aug. 2024
 * Research Assistant, University of California, San Diego
   * Advisor: Prof. Bo Li
-  * Jan 2022 - Present
-* Research Assistant, University of California, Irvine
-  * Advisor: Prof. Hongkai Zhao and Postdoc Yimin Zhong
-  * Jul 2019 - Sept 2019
+  * Jan. 2022 - Jun. 2025
 
 Programming Skills
 ======
-* Python, C/C++, MATLAB, Mathematica, SQL, R, LaTeX, Git
+* Python, C/C++, Java, Excel/VBA, SQL, Linux, Git, MATLAB, R, LaTeX
